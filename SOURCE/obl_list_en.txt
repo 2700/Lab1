@@ -1,0 +1,26 @@
+ID	Province name
+1	Vinnytska
+2	Volynska
+3	Dnipropetrovska
+4	Donetska
+5	Zhytomyrska
+6	Zakarpatska
+7	Zaporizka
+8	Ivano-Frankivska
+9	Kyivska
+10	Kirovohradska
+11	Luhanska
+12	Lvivska
+13	Mykolaivska
+14	Odeska
+15	Poltavska
+16	Rivenska
+17	Sumska
+18	Ternopilska
+19	Kharkivska
+20	Khersonska
+21	Khmelnytska
+22	Cherkaska
+23	Chernivetska
+24	Chernihivska
+25	Respublika Krym
